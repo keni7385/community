@@ -44,7 +44,7 @@ Introduction
 
 ### Background ###
 * [Compute resources](https://kubernetes.io/docs/user-guide/compute-resources/)
-* [Resource QoS](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/resource-qos.md)
+* [Resource QoS](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/node/resource-qos.md)
 * [Admission Controllers](https://kubernetes.io/docs/admin/admission-controllers/)
 * [External Admission Webhooks](https://kubernetes.io/docs/admin/extensible-admission-controllers/#external-admission-webhooks)
 
